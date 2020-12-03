@@ -1,3 +1,0 @@
-esegui su cmd:
-pip install -r requirements.txt
-poi potrai aprire il file python.
