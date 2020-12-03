@@ -11,7 +11,6 @@ from pywebcopy import save_webpage
 print('ATTENZIONE:\nQUESTO PROGRAMMA FUNZIONA BENE SOLO CON SITI STATICI.\n')
 sito=input('Quale sito vuoi rubare? (includi "http:// o https://") \n')
 cartella=input('In quale cartella lo vuoi scaricare? (INVIO per scaricarlo in C:/).\n')
-punto=sito.find('.')
 slash=sito.find('/')
 nomesito=sito[slash+1:]
 url = sito
